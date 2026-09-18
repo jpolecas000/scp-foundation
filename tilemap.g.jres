@@ -1,0 +1,96 @@
+{
+    "tile2": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f1ERN/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-L2 Keycard"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f2Zmd/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-L4 Keycard Slot"
+    },
+    "tile8": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f3u7t/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-O5 Keycard Slot"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f0iIt/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-L3 Keycard Slot"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f1VVd/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-L1 Keycard Slot"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d39///f3c3R3f13d9/dzdHd/f//393N0d39///f3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c3R3d3d3d3dzdHd3d3d3d3N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-L0 Keycard Slot"
+    },
+    "tile9": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d39////3c3R3f2YmPjdzdHd/ZiY+N3N0d39mJj43c3R3f2YmPjdzdHd/ZiY+N3N0d39mJj43c3R3f2YmPjdzdHd/ZiY+N3N0d39mJj43c3R3f2YmPjdzdHd/f///93N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-Brodcast TV"
+    },
+    "tile10": {
+        "data": "hwQQABAAAAC9u7u7u7u729Hd3d3d3d3N0d39////3c3R3f1CQvLdzdHd/UJC8t3N0d39QkLy3c3R3f1CQvLdzdHd/UJC8t3N0d39QkLy3c3R3f1CQvLdzdHd/UJC8t3N0d39QkLy3c3R3f1CQvLdzdHd/f///93N0d3d3d3d3c29u7u7u7u72w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main Wall-Brodcast TV-Hacked"
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAdERERERER0dHd3d3d3d0d0d3d3d3d3R3R3d3d3d3dHdHd3d3d3d0d0d3d3d3d3R3R3d3d3d3dHdHd3d3d3d0d0d3d3d3d3R3R3d3d3d3dHdHd3d3d3d0d0d3d3d3d3R3R3d3d3d3dHdHd3d3d3d0d0d3d3d3d3R0dERERERER0Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main_Tile floor"
+    },
+    "tile11": {
+        "data": "hwQQABAAAAD//////////19bu7u7u7X1X1u7u7u7tfVfW7u7u7u19V9btbu7W7X1X7u1u7tbu/Vfu7W7u1u79f////////////////////9fu7W7u1u79V+7tbu7W7v1X1u1u7tbtfVfW7u7u7u19V9bu7u7u7X1X1u7u7u7tfX//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Heavy Door"
+    },
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile12": {
+        "data": "hwQQABAAAABNRERERERE1NTd3d3d3d1N1N3d3d3d3U3U3d3d3d3dTdRNRERERNRN1E3d3d3d1E3UTd3d3d3UTdTd1N3dTd1N1N3U3d1N3U3U3U3d3dTdTdTdTd3d1N1N1N3dRETd3U3U3d3d3d3dTdTd3d3d3d1N1N3d3d3d3U1NRERERERE1A==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main_Tile-Class-D Spawn"
+    },
+    "tile13": {
+        "data": "hwQQABAAAACdmZmZmZmZ2dnd3d3d3d2d2d3d3d3d3Z3Z3d3d3d3dndnd3d3d3d2d2d3d3d3d3Z3Z3d3d3d3dndnd3d3d3d2d2d3d3d3d3Z3Z3d3d3d3dndnd3d3d3d2d2d3d3d3d3Z3Z3d3d3d3dndnd3d3d3d2d2d3d3d3d3Z2dmZmZmZmZ2Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main_Tile floor- Scientific Spawn"
+    },
+    "tile14": {
+        "data": "hwQQABAAAADt7u7u7u7u3t7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3e3d3d3d3d7d7d3d3d3d3t3t3d3d3d3e3t7u7u7u7u3g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "Main_Tile floor Security Spawn"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
