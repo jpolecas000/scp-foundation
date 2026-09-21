@@ -3,7 +3,17 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.18"
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "we": "github:rando-muser/Neural-Networks#c576c685a9fb3fb811eccc9a2b2fd21eb120e4f4",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.2",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "radio-broadcast": "*",
+        "sprite-fx": "github:kohanmathers/makecodespritefx#v1.3.0"
     },
     "files": [
         "main.blocks",
