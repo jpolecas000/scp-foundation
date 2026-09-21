@@ -2,7 +2,8 @@
     "name": "SCP Foundation",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0"
     },
     "files": [
         "main.blocks",
