@@ -1,11 +1,6 @@
 namespace SpriteKind {
     export const NPC = SpriteKind.create()
 }
-/**
- * O= classd
- * 
- * 1=security
- */
 let myMenu2: Sprite = null
 let mySprite2: Sprite = null
 let mySprite: Sprite = null
