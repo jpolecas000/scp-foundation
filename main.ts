@@ -7,7 +7,6 @@ namespace SpriteKind {
  * 1=security
  */
 let myMenu2: Sprite = null
-let BrainList: number[] = []
 let mySprite2: Sprite = null
 let mySprite: Sprite = null
 let myMenu = miniMenu.createMenu(
@@ -58,10 +57,6 @@ miniMenu.onButtonPressed(myMenu, miniMenu.Button.A, function (selection, selecte
             . . . . . f f f f f f . . . . . 
             . . . . . f f . . f f . . . . . 
             `, SpriteKind.NPC)
-        sprites.setDataNumber(mySprite2, "faction", 1)
-        sprites.setDataNumber(mySprite2, "health", 100)
-        BrainList = []
-        sprites.setDataNumber(mySprite2, "brainID", BrainList.length)
     } else if (selectedIndex == 2) {
         myMenu2 = miniMenu.createMenu(
         miniMenu.createMenuItem("Nu-7"),
